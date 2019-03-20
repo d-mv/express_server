@@ -1,0 +1,17 @@
+{
+  "name": "express_server",
+  "version": "0.0.1",
+  "description": "Express web-site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DM-v",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "pug": "*",
+    "node-mailer": "*"
+  }
+}
